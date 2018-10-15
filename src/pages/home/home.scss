@@ -1,0 +1,21 @@
+.home{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  div.button_layout{
+    width: 120px;
+    height: 32px;
+    margin: 20px;
+    flex: 1;
+    justify-content: center;
+  }
+  div.test_layout{
+    width: 100px;
+    height: 100px;
+    flex: 1;
+    justify-content: center;
+  }
+}
