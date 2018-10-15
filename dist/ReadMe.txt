@@ -1,0 +1,1 @@
+it is webpack output dir
